@@ -1,4 +1,9 @@
-# Ingesting data into CAS using the SAS Micro Analytic Service (MAS)
+# Ingesting data into CAS using the SAS Micro Analytic Service (MAS) [DEPRECATED]
+
+## DEPRECATION NOTICE
+As of the 2020.1 release, SAS® Event Stream Processing no longer supports the loadStreams and espCluster action sets. This github repository has been deprecated and will no longer be updated.
+
+---
 
 A tutorial that shows how the SAS Micro Analytic Service (MAS) can be used to ingest data into CAS.
 
